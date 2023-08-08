@@ -1,0 +1,4 @@
+Flask
+Flask-RESTful
+google-cloud-storage
+pyopenssl
